@@ -8,8 +8,12 @@ Aplicativos web e mobile criados no bootcamp da rocketseat. Aplicações iniciai
 Usados também como guia para minhas futuras aplicações.
 
 <br/>
-#Styled-component;<br/>
-#React;<br/>
-#React-Native;<br/>
-#External API;<br/>
-Expo;<br/>
+<h4>
+ <strong>
+  #Styled-component;<br/>
+  #React;<br/>
+  #React-Native;<br/>
+  #External API;<br/>
+  #Expo;<br/>
+ </strong>
+</h4>
