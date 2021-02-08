@@ -1,4 +1,4 @@
-# apps-initial-goStack09
+# apps-initial-goStack09 ROCKETSEAT
  Web and mobile application created in the rocketseat bootcamp. Initial applications of the course.
  Also used as a guide for my future applications.
  
