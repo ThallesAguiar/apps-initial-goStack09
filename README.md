@@ -12,3 +12,4 @@ Usados também como guia para minhas futuras aplicações.
 #React;<br/>
 #React-Native;<br/>
 #External API;<br/>
+Expo;<br/>
